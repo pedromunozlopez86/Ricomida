@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+    border: 0;
+    }
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+}
+
+hr {
+    height: 1px;
+    background-color: gray;
+}
+
+.carousel-indicators {
+    top: 200px;
+    align-items: baseline; 
+ }
+
+  .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: grey;
+  }
+
+  #btn-emp {
+      padding-left: 7rem;
+      padding-right: 7rem;
+  }
+
+  #ti-recetas-relacionas,#titulo-1,#suscribe-news,#t-preparacion,#t-ingredientes {
+      font-weight: 700;
+  }
+
+  #t-ingredientes,#t-preparacion {
+        text-underline-offset: 10px;
+  }
